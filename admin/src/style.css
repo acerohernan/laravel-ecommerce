@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Vue-Toastification__toast-body {
+    font-size: 0.875rem !important;
+}
